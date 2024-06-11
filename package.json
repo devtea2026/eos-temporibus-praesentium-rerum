@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/eos-temporibus-praesentium-rerum",
-  "version": "3.4.35",
+  "version": "3.4.36",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -558,5 +558,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/eos-temporibus-praesentium-rerum/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
